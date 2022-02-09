@@ -19,9 +19,9 @@
 
 
 ## Code and Resources Used 
-**Python Version:** 3.7.11  
-**Packages:** numpy, pandas, keras, tensorflow, sklearn
-**Dataset from:** Nguyen who is one the authors of the paper titled “DNA sequence classification by convolutional neural network”  <br>  
+* **Python Version:** 3.7.11  
+* **Packages:** numpy, pandas, keras, tensorflow, sklearn
+* **Dataset from:** Nguyen who is one the authors of the paper titled “DNA sequence classification by convolutional neural network”  <br>  
 
 ## Features of the Dataset
 DNA sequences wrapped around histone proteins are the subject of datasets
