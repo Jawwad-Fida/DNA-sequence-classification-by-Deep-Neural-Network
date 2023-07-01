@@ -286,7 +286,8 @@ The evaluation metrics we used for our experiments are accuracy, precision, reca
 
 MCC score 0 indicates the model's randomized predictions. The recall score indicates how well the classifier can find all positive samples. We can say that the model's ability to classify all positive samples has been at an all-time high over the last five experiments. The highest MCC score we received was 0.1573, indicating that the model is very near to predicting in a randomized approach. We attain a maximum accuracy of 60.27%, which is much lower than the state-of-the-art result of 71.77%. To improve the score, we need to emphasize more on the sequence embedding approach. Furthermore, we can experiment with various deep learning techniques.
 
+## Project Report
 
-
+[Bioinformatics Project Report](https://github.com/Jawwad-Fida/DNA-sequence-classification-by-Deep-Neural-Network/files/11925655/Bioinformatics.Project.Report.of.Group.1.docx.pdf)
 
 
